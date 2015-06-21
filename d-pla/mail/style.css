@@ -1,0 +1,42 @@
+INPUT
+{
+color:#666666;
+border-color:#acdeff;
+border-bottom-width:1px;
+border-top-width:1px; 
+border-right-width:1px; 
+border-left-width:1px;
+border-style:solid; 
+}
+TEXTAREA
+{
+color:#666666;
+background-repeat : no-repeat;
+background-attachment : fixed;
+background-position: 50% 50%;
+background-image : url(img/noion/002winter.jpg);
+border-color:#acdeff;
+border-bottom-width:1px;
+border-top-width:1px; 
+border-right-width:1px; 
+border-left-width:1px;
+border-style:solid; 
+}
+.tbl
+{
+border-color:#acdeff;
+border-bottom-width:1px;
+border-top-width:1px; 
+border-right-width:1px; 
+border-left-width:1px;
+border-style:solid;
+}
+.tbl2
+{
+border-color:#e6f4fc;
+border-bottom-width:3px;
+border-top-width:3px; 
+border-right-width:3px; 
+border-left-width:3px;
+border-style:solid;
+}

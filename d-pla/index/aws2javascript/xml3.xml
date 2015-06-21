@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><ProductInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://xml.amazon.com/schemas3/dev-lite.xsd">
+
+<Request><Args><Arg value="Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)" name="UserAgent"></Arg><Arg value="1V95DGGV768QRMCYWD4H" name="RequestID"></Arg><Arg value="B000BM6IR6" name="AsinSearch"></Arg><Arg value="jp" name="locale"></Arg><Arg value="D2JW5SAFEH7L0B" name="dev-t"></Arg><Arg value="goodpic-22" name="t"></Arg><Arg value="xml" name="f"></Arg><Arg value="lite" name="type"></Arg></Args></Request>   <Details url="http://www.amazon.co.jp/exec/obidos/ASIN/B000BM6IR6/goodpic-22?dev-t=D2JW5SAFEH7L0B%26camp=2025%26link_code=xm2">
+      <Asin>B000BM6IR6</Asin>
+      <ProductName>DEEN The BEST キセキ(通常盤)</ProductName>
+      <Catalog>Music</Catalog>
+      <Artists>
+         <Artist>DEEN</Artist>
+         <Artist>上杉昇</Artist>
+         <Artist>岩田雅之</Artist>
+         <Artist>坂井泉水</Artist>
+         <Artist>島健</Artist>
+         <Artist>池森秀一</Artist>
+         <Artist>松浦晃久</Artist>
+         <Artist>井上留美子</Artist>
+         <Artist>CHOKKAKU</Artist>
+         <Artist>長岡成貢</Artist>
+      </Artists>
+      <ReleaseDate>2005/11/23</ReleaseDate>
+      <Manufacturer>BMGファンハウス</Manufacturer>
+      <ImageUrlSmall>http://images-jp.amazon.com/images/P/B000BM6IR6.09.THUMBZZZ.jpg</ImageUrlSmall>
+      <ImageUrlMedium>http://images-jp.amazon.com/images/P/B000BM6IR6.09.MZZZZZZZ.jpg</ImageUrlMedium>
+      <ImageUrlLarge>http://images-jp.amazon.com/images/P/B000BM6IR6.09.LZZZZZZZ.jpg</ImageUrlLarge>
+      <Availability>通常24時間以内に発送</Availability>
+      <ListPrice>￥ 3,059</ListPrice>
+      <OurPrice>￥ 3,059</OurPrice>
+   </Details>
+</ProductInfo>

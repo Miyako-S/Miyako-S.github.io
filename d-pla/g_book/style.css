@@ -1,0 +1,29 @@
+body {
+color:#6495ED;
+font-size:10pt;
+line-height:15pt;
+}
+
+.shadows { 
+font-size: 9pt;
+filter:dropshadow(offx=2,offy=2,color=#caccb2); 
+position:relative; 
+width:100%; 
+height:100%; 
+}
+.tline {
+color : #808080;
+border-style:solid;
+border-color:#6495ED;
+border-width:1pt;
+font-size:9pt;}
+.gray {
+color : #808080;}
+td,input {
+font-size: 10pt;
+}
+.welcom{ color:#FFFFFF;
+font-size:12px;
+font-weight:bold;
+margin: 0% auto;
+padding:0%;}

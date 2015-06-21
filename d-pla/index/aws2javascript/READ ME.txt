@@ -1,0 +1,40 @@
+
+Amazon Webサービスを利用してAmazonの商品データを取得して
+Javascriptに変換するXSLTテンプレート群です。
+利用するにはAmazonのサイトにてWebサービス利用の申し込みを
+しないと行けません。
+
+■ aws2javascript.zipの添付物 ■
+1. aws2js_img.xsl
+2. aws2js_txt.xsl
+3. ecs2js_imgL.xsl
+4. noimage_m.gif
+5. noimage_s.gif
+6. READ ME.txt(このファイル)
+
+■各ファイルの説明
+aws2js_img.xsl
+Amazonのデータを画像付きで表示します。画像サイズは小・中から
+選択します。画像が無いときの為に(4)、(5)が必要です。
+
+aws2js_text.xsl
+Amazonのデータをテキストのみで表示します。
+
+参考URLです。
+http://park8.wakwak.com/~da101/nikky/log/2005/03/04_2237.html
+http://park8.wakwak.com/~da101/nikky/log/2005/03/24_1530.html
+http://park8.wakwak.com/~da101/nikky/log/2005/04/04_1404.html
+
+以上の2つのXSLファイルはAmazon Webサービスの3.0を使用して作成されています。
+
+
+ecs2js_imgL.xsl
+Amazon Webサービス4.0を使用して作成しています。
+こちらも処理的には先の2種と同じなんですけど、取得リストで1番売れている
+商品を中画像で表示して残りを小画像表示します。
+画像が無いときの為に(4)、(5)が必要です。
+
+参考URL
+http://park8.wakwak.com/~da101/nikky/log/2005/04/17_0852.html
+
+

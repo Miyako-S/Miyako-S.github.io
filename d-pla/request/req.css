@@ -1,0 +1,23 @@
+body,td { font-family :'Osaka'; 
+       font-size:12px;}
+body { background-attachment: fixed; 
+background-image: url(image/left2.jpg);
+background-repeat: no-repeat; 
+background-position: left}
+table{border: 1px solid #0000FF;
+      margin-left:30px;}
+td{font-size:12px;
+   font-family:'ÇlÇrÅ@ÇoÉSÉVÉbÉN','Osaka';
+   border: 1px solid blue;}
+body{scrollbar-3dlight-color:#000000;
+   scrollbar-arrow-color:#00ccff;
+   scrollbar-base-color:#ffffff;
+   scrollbar-darkshadow-color:#ffffff;
+   scrollbar-face-color:#ffffff;
+   scrollbar-highlight-color:#ffffff;
+   scrollbar-shadow-color:#000000;
+   scrollbar-track-color:#ffffff;}
+A{ color:#0066ff;text-decoration:none ;cursor:s-resize; }
+A:visited { color:#FF0099;text-decoration:none ; } 
+A:active { color:#CC00FF; text-decoration:none ; }
+A:hover { background:#99ffff; color:#ff33cc; text-decoration:none ; }

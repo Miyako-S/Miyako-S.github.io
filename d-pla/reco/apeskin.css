@@ -1,0 +1,30 @@
+<!--
+INPUT,TEXTAREA{
+border-top : 1px solid #aaaaaa ;
+border-bottom : 1px solid #aaaaaa ;
+border-left : 1px solid #aaaaaa ;
+border-right : 1px solid #aaaaaa ;
+background-color : white;
+  color : gray;
+}
+.te1{
+  font-size : 12px;
+}
+.te2{
+  font-size : 12px;
+}
+A{text-decoration : none;}
+.te3{
+  font-size : 10px;
+}
+.bg{
+  background-image : url(img/bg.jpg);
+  background-attachment : fixed;
+  background-repeat : no-repeat;
+}
+.welcom{ color:#FFFFFF;
+font-size:12px;
+font-weight:bold;
+margin: 0% auto;
+padding:0%;}
+-->
